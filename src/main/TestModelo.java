@@ -1,11 +1,9 @@
-package test.logic;
+package main;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
-
-import main.Modelo;
 
 public class TestModelo<T> {
 	
